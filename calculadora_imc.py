@@ -3,7 +3,7 @@
 # Programa: Calculadora de IMC
 # =====================================================================
 
-print=("--- Calculadora de IMC ---")
+print("--- Calculadora de IMC ---")
 
 # 1. Solicitar datos al usuario con input()
 # Nota: input() siempre devuelve un string (texto)
@@ -39,4 +39,4 @@ elif imc >= 25 and imc < 30:
 else:
     print("Clasificación: Obesidad")
 
-    #Reto Semanal 2 finalizado - Segundo commit
+# Reto Semanal 2 finalizado - Segundo commit
