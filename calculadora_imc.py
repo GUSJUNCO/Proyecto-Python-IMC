@@ -38,3 +38,5 @@ elif imc >= 25 and imc < 30:
     print("Clasificación: Sobrepeso")
 else:
     print("Clasificación: Obesidad")
+
+    #Reto Semanal 2 finalizado - Segundo commit
