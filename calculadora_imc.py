@@ -3,7 +3,7 @@
 # Programa: Calculadora de IMC
 # =====================================================================
 
-print("--- Calculadora de IMC ---")
+print ("--- Calculadora de IMC ---")
 
 # 1. Solicitar datos al usuario con input()
 # Nota: input() siempre devuelve un string (texto)
